@@ -1,5 +1,5 @@
 from replit import clear
-from art import logo
+from auction_art import logo
 print(logo)
 
 bids = {}
